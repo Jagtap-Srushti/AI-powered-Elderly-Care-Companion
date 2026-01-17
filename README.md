@@ -87,7 +87,7 @@ You can add screenshots like this:
 
 ### ⚡ SOS Functionality
 ![SOS Functionality](./assets/Ai.png)
-
+```
 ## ⚠ Assets / Images Notice
 
 Some images, icons, and logos used in this project were sourced from the internet for **demonstration purposes only** and are **not owned by the author**.  
@@ -98,4 +98,5 @@ The **code and functionality** of this project are licensed under the MIT Licens
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — 
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
