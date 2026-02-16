@@ -76,9 +76,7 @@ As people age, they commonly face challenges such as:
 
 ## 🖼 Screenshots (UI Snapshots)
 
-You can add screenshots like this:
 
-```markdown
 ### 🏠 Home Page
 ![Home Page](./assets/Home.png)
 
@@ -87,7 +85,7 @@ You can add screenshots like this:
 
 ### ⚡ SOS Functionality
 ![SOS Functionality](./assets/Ai.png)
-```
+
 ## ⚠ Assets / Images Notice
 
 Some images, icons, and logos used in this project were sourced from the internet for **demonstration purposes only** and are **not owned by the author**.  
